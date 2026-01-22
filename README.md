@@ -1,5 +1,7 @@
 # Nocode x AI Enterprise Apps
 
+[Apps internes - Nocode x IA](https://www.contournement.io/formations/en-autonomie/en-autonomie-apprendre-a-concevoir-des-applications-internes-avec-le-no-code-et-lia)
+
 ~~~
 Creating enterprise apps from A to Z
 No-code and AI to design effective and innovative enterprise applications.
